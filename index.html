@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>호그와트 팬 사이트</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header>
+    <h1>✨ 호그와트 팬 사이트</h1>
+    <nav>
+      <a href="gryffindor.html">🦁 그리핀도르</a>
+      <a href="slytherin.html">🐍 슬리데린</a>
+      <a href="ravenclaw.html">🦅 레이븐클로</a>
+      <a href="hufflepuff.html">🦡 후플푸프</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>🔍 인물 검색</h2>
+      <input type="text" id="search" placeholder="캐릭터 이름/기숙사/역할 검색">
+      <button id="moreBtn" type="button">더 불러오기</button>
+      <ul id="results"></ul>
+    </section>
+    <section>
+      <h2>📜 주문 검색</h2>
+      <input type="text" id="spellSearch" placeholder="주문 이름 입력" oninput="searchSpells()">
+      <ul id="spellResults"></ul>
+    </section>
+  </main>
+</body>
+</html>

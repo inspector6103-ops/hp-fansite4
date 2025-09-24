@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Grey Lady",
+    "house": "Ravenclaw",
+    "role": "유령",
+    "description": "헬레나 레이븐클로",
+    "wiki": "https://en.wikipedia.org/wiki/Helena_Ravenclaw"
+  },
+  {
+    "name": "Nearly Headless Nick",
+    "house": "Gryffindor",
+    "role": "유령",
+    "description": "그리핀도르 유령",
+    "wiki": "https://en.wikipedia.org/wiki/Nearly_Headless_Nick"
+  },
+  {
+    "name": "Peeves",
+    "house": "None",
+    "role": "폴터가이스트",
+    "description": "호그와트 말썽꾸러기",
+    "wiki": "https://harrypotter.fandom.com/wiki/Peeves"
+  },
+  {
+    "name": "Viktor Krum",
+    "house": "Durmstrang",
+    "role": "퀴디치 선수",
+    "description": "불가리아 대표 시커",
+    "wiki": "https://en.wikipedia.org/wiki/Viktor_Krum"
+  },
+  {
+    "name": "Olympe Maxime",
+    "house": "Beauxbatons",
+    "role": "교장",
+    "description": "보바통 교장",
+    "wiki": "https://en.wikipedia.org/wiki/Olympe_Maxime"
+  },
+  {
+    "name": "Unknown Wizard 441",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 442",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 443",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 444",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 445",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 446",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 447",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 448",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 449",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 450",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 451",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 452",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 453",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 454",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 455",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 456",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 457",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 458",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 459",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 460",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 461",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 462",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 463",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 464",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 465",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 466",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 467",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 468",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 469",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 470",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 471",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 472",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 473",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 474",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 475",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 476",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 477",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 478",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 479",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 480",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 481",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 482",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 483",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 484",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 485",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 486",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 487",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 488",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 489",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 490",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 491",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 492",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 493",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 494",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 495",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 496",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 497",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 498",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 499",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 500",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 501",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 502",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 503",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 504",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 505",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 506",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 507",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 508",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 509",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 510",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 511",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 512",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 513",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 514",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 515",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 516",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 517",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 518",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 519",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 520",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 521",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 522",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 523",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 524",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 525",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 526",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 527",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 528",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 529",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 530",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 531",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 532",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 533",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 534",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 535",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 536",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 537",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 538",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 539",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 540",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 541",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 542",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 543",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 544",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 545",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 546",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 547",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 548",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 549",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 550",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 551",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 552",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 553",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 554",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  },
+  {
+    "name": "Unknown Wizard 555",
+    "house": "None",
+    "role": "TBD",
+    "description": "추가 인물 자리 (확장 가능)",
+    "wiki": ""
+  }
+]
