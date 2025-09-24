@@ -19,15 +19,14 @@
   <main>
     <section>
       <h2>🔍 인물 검색</h2>
-      <input type="text" id="search" placeholder="캐릭터 이름/기숙사/역할 검색">
-      <button id="moreBtn" type="button">더 불러오기</button>
-      <ul id="results"></ul>
-    </section>
-    <section>
+    <form onsubmit="onSearchInput(); return false;">
+  <input type="text" id="search" placeholder="캐릭터 이름/기숙사/역할 검색">
+  <button type="submit">검색</button>
+</form>
+<ul id="results"></ul>
       <h2>📜 주문 검색</h2>
-      <input type="text" id="spellSearch" placeholder="주문 이름 입력" oninput="searchSpells()">
-      <ul id="spellResults"></ul>
-    </section>
-  </main>
-</body>
-</html>
+     <form onsubmit="onSearchInput(); return false;">
+  <input type="text" id="search" placeholder="캐릭터 이름/기숙사/역할 검색">
+  <button type="submit">검색</button>
+</form>
+<ul id="results"></ul>
