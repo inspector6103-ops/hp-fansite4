@@ -16,17 +16,28 @@
       <a href="hufflepuff.html">🦡 후플푸프</a>
     </nav>
   </header>
+
   <main>
+    <!-- 인물 검색 -->
     <section>
       <h2>🔍 인물 검색</h2>
-    <form onsubmit="onSearchInput(); return false;">
-  <input type="text" id="search" placeholder="캐릭터 이름/기숙사/역할 검색">
-  <button type="submit">검색</button>
-</form>
-<ul id="results"></ul>
+      <form onsubmit="onSearchInput(); return false;">
+        <input type="text" id="search" placeholder="캐릭터 이름/기숙사/역할 검색" oninput="onSearchInput()">
+        <button type="submit">검색</button>
+      </form>
+      <button id="moreBtn" type="button">더 불러오기</button>
+      <ul id="results"></ul>
+    </section>
+
+    <!-- 주문 검색 -->
+    <section>
       <h2>📜 주문 검색</h2>
-     <form onsubmit="onSearchInput(); return false;">
-  <input type="text" id="search" placeholder="캐릭터 이름/기숙사/역할 검색">
-  <button type="submit">검색</button>
-</form>
-<ul id="results"></ul>
+      <form onsubmit="searchSpells(); return false;">
+        <input type="text" id="spellSearch" placeholder="주문 이름 입력" oninput="searchSpells()">
+        <button type="submit">검색</button>
+      </form>
+      <ul id="spellResults"></ul>
+    </section>
+  </main>
+</body>
+</html>
